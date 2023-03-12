@@ -1,0 +1,12 @@
+<bugReport>
+  <title>Application crashes when clicking "Save" button</title>
+  <description>When clicking the "Save" button in the application, it crashes and closes without saving any changes. This issue occurs consistently and has been observed on multiple devices.</description>
+  <stepsToReproduce>
+    <step>Open the application and create a new document.</step>
+    <step>Make some changes to the document.</step>
+    <step>Click the "Save" button.</step>
+    <step>Observe that the application crashes and closes.</step>
+  </stepsToReproduce>
+  <expectedResult>The application should save the changes and remain open.</expectedResult>
+  <actualResult>The application crashes and closes without saving any changes.</actualResult>
+</bugReport>
